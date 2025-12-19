@@ -1,4 +1,5 @@
-# Snake-Game-Project
+# Snake Game Project
+
 ## Overview
 This project implements a classic **Snake Game** in C++. It solves the problem of creating an interactive, real-time console application using object-oriented design principles. This project matters because it demonstrates fundamental concepts of game development, including the game loop architecture, state management, and dynamic memory handling without relying on heavy game engines.
 
